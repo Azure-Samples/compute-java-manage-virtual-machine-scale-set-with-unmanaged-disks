@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Compute
-- platforms: java
+description: "Azure Compute sample for managing virtual machine scale sets with un-managed disks"
+urlFragment: compute-java-manage-virtual-machine-scale-set-with-unmanaged-disks
 ---
 
 # Getting Started with Compute - Manage Virtual Machine Scale Set With Unmanaged Disks - in Java #
